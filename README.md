@@ -1,5 +1,8 @@
 ## CCPROG2 Machine Project
-C implementation of the board game called <b>Backgammon</b>.<br><br>
+<p align="justify">
+C implementation of the board game called <b>Backgammon</b>.<br>
+</p>
+
 Created by:<br> Jose Mari Del Castillo <br>
 Francisco Emmanuel Dumas<br><br>
 Submission Date: December 9, 2022
